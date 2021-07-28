@@ -50,7 +50,7 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
 
 - [BRQ - Teladoc Health](https://www.teladochealth.com/pt/) - Analista de Sistemas Sênior - [Mario de 2021 - Atualmente]
 
-  - Atividades: Desenvolvendo um App para teleconsultas com Medicos, Clinicos, Psicologos e Pediatras.
+  - Atividades: Desenvolvendo um App para teleconsultas com Medicos, Clinicos, Psicologos e Pediatras, usando Adonis.js, Laravel, Vue.js, numa estrutura de           microserviços.
   
 - [ACT DIGITAL](https://actdigital.com/pt/) - Desenvolvedor Pleno - [Abril de 2021 - Maio de 2021 ]
 
