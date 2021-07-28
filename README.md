@@ -9,6 +9,7 @@
 ### Languages: pt-BR, en-US
 
 - [Linkedin](https://www.linkedin.com/in/leandro-sales-50594614b/)
+- [Github](https://github.com/leandro-sales-ls/leandro-sales-ls)
 - Email: leandro.sallesls@hotmail.com
 - [071993225360](https://api.whatsapp.com/send?1=pt_BR&phone=5571993225360)
 - Location: Salvador-BA
