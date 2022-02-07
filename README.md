@@ -71,7 +71,7 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
 
   - Atividades: Trabalhei com PHP(Laravel) e JavaScript(Vue.Js) em um novo projeto do Ministério Publico para gerenciar os gastos dos servidores.
   
-- [WTF](http://www.wtf.inf.br/) - Analista de Sistemas [Janeiro de 2020 - Agosto de 2020]
+- [WTF](http://www.wtf.inf.br/) - Analista de Sistemas [Janeiro de 2019 - Janeiro de 2020]
 
   - Atividades: Trabalhei com PHP(Codeigniter) e RPA(UiPath) realizando a criação de novos sistemas web e automatizando processos com o UiPath.
 
