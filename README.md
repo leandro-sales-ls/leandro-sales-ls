@@ -52,17 +52,13 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
 - [BRQ - Teladoc Health](https://www.teladochealth.com/pt/) - Analista de Sistemas Sênior - [Maio de 2021 - Atualmente]
 
   - Atividades: Desenvolvendo um App para teleconsultas com Medicos, Clinicos, Psicologos e Pediatras, usando Adonis.js, Laravel, Vue.js, numa estrutura de           microserviços.
-  
-- [ACT DIGITAL](https://actdigital.com/pt/) - Desenvolvedor Pleno - [Abril de 2021 - Maio de 2021 ]
 
-  - Atividades: Trabalhei com JavaScript(Vue.Js) e Wordpress nos sistemas da Webedia.
-
-- [META](https://www.meta.com.br/) - Desenvolvedor Pleno - [Janeiro de 2021 - Abril de 2021]
+- [META](https://www.meta.com.br/) - Desenvolvedor Sênior - [Janeiro de 2021 - Maio de 2021]
 
   - Atividades: Trabalhei com JavaScript(Vue.Js) em um projeto chamado Córtex com o intuito de melhorar a segurança nacional rastreando veiculos
     e pessoas que estão foragidos, o projeto esta sendo desenvolvido para o Ministerio da Justiça e Segurança Publica.
     
-- [COUT](https://cout.app/) - Analista de Sistemas [Setembro de 2020 - Maio de 2021]
+- [COUT](https://cout.app/) - Engenheiro de Software [Setembro de 2020 - Maio de 2021]
 
   - Atividades: Trabalhei com PHP(Laravel) e JavaScript(Nuxt.Js) em um novo projeto da Cout com o intuito de gerenciar hospitais, atualmente o sistema esta na parte de     criação de escalas para o profissinais. 
   
