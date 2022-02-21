@@ -4,7 +4,7 @@
 
 > Graduado em "Análise e Desenvolvimento de Sistemas" pela Fundação Visconde de Cairú
 
-> Cursando Pós Graduação em "Engenharia de Software" pela Universidade Estácio de Sá
+> Pós Graduação em "Engenharia de Software" pela Universidade Estácio de Sá
 
 ### Languages: pt-BR, en-US
 
@@ -58,7 +58,7 @@ Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel P
   - Atividades: Trabalhei com JavaScript(Vue.Js) em um projeto chamado Córtex com o intuito de melhorar a segurança nacional rastreando veiculos
     e pessoas que estão foragidos, o projeto esta sendo desenvolvido para o Ministerio da Justiça e Segurança Publica.
     
-- [COUT](https://cout.app/) - Engenheiro de Software [Setembro de 2020 - Maio de 2021]
+- [COUT](https://cout.app/) - Engenheiro de Software [Setembro de 2020 - Maio de 2021] - Consultoria
 
   - Atividades: Trabalhei com PHP(Laravel) e JavaScript(Nuxt.Js) em um novo projeto da Cout com o intuito de gerenciar hospitais, atualmente o sistema esta na parte de     criação de escalas para o profissinais. 
   
