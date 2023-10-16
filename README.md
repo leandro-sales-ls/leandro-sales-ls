@@ -5,8 +5,8 @@
 ---
 
 ## 🌐 **Contatos**
-- [LinkedIn](www.linkedin.com/in/leandro-ssales)
-- [GitHub (Portfólio)](github.com/leandro-sales-ls)
+- [LinkedIn](https://www.linkedin.com/in/leandro-s-sales/)
+- [GitHub (Portfólio)](https://github.com/leandro-sales-ls)
 
 ---
 
