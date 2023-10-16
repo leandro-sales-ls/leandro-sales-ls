@@ -1,93 +1,81 @@
-# Leandro Dos Santos Sales
+Leandro Sales - Desenvolvedor Sênior
+🔹 Desenvolvedor Web com foco em PHP e experiência avançada em frameworks como Laravel e Vue.js. Sempre em busca de soluções inovadoras e comprometido com a excelência na entrega de projetos.
 
-> FullStack Developer (Vue.Js & Laravel)
+🌐 Contatos
+LinkedIn
+GitHub (Portfólio)
 
-> Graduado em "Análise e Desenvolvimento de Sistemas" pela Fundação Visconde de Cairú
+💼 Experiência Profissional
+PicPay | Software Developer
+Março de 2023 - Atualmente
 
-> Pós Graduação em "Engenharia de Software" pela Universidade Estácio de Sá
+Atuação na Conta PJ
+Back end: PHP7.4 e PHP8.1
+Banco de dados: MySql, MongoDB
+Ferramentas: GIT, Github, Kubernetes, Docker
+BRQ Digital Solutions | Senior Software Developer
+Maio de 2021 - Março de 2023
 
-### Languages: pt-BR, en-US
+São Paulo, Brasil
+Trabalho no projeto da Teladoc no aplicativo VidaV, parceria com a Vivo, voltado para telemedicina.
+Back end: Laravel versão 8, Adonis.Js, Node.Js
+Banco de dados: PostgreSql, MongoDB
+Front End: Vuejs
+Ferramentas: GIT, Gitlab, Gcloud, Microsserviços, Kubernetes, Docker
+Cout | Engenheiro de Software
+Agosto de 2020 - Maio de 2021
 
-- [Linkedin](https://www.linkedin.com/in/leandro-sales-50594614b/)
-- [Github](https://github.com/leandro-sales-ls/leandro-sales-ls)
-- Email: leandro.sallesls@hotmail.com
-- [071993225360](https://api.whatsapp.com/send?1=pt_BR&phone=5571993225360)
-- Location: Salvador-BA
+Goiânia, Goiás, Brasil
+Projeto Cout com objetivo de criar escalas para hospitais e clínicas.
+Back end: Laravel versão 7
+Banco de dados: MySQL
+Front End: Vuejs e Nuxt.js
+Ferramentas de Versionamento: GIT e Gitlab
+Capgemini | Analista de Sistemas
+Janeiro de 2020 - Agosto de 2020
 
----
+Salvador BA
+Projeto Despesas Miudas para gerenciar gastos dos servidores públicos.
+Back end: Laravel versão 7
+Banco de dados: SQL Server
+Front End: HTML5, Vuejs e Elemental UI
+Ferramentas de Versionamento: GIT e Gitlab
+DevOps: Linux, Docker, docker-compose, Jenkins
+Wtf Tecnologia | Analista de Sistemas
+Janeiro de 2019 - Janeiro de 2020
 
-## Habilidades:
+Salvador BA
+Atuação no sistema GAIA para automatização do setor financeiro.
+Back end: Codeigniter 3, Node.JS, UiPath
+Banco de dados: SQL Server, PostgreSQL
+Ferramentas de Versionamento: GIT e Gitlab
+AnnyNet | Desenvolvedor de Software
+Janeiro de 2017 - Janeiro de 2019
 
-<!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
+Salvador BA
+Suporte ao cliente, correções de bugs e melhorias.
+Back end: Codeigniter 3
+Banco de dados: PostgreSQL
+Ferramentas de Versionamento: GIT e GitHub
 
-| Beginner              | Intermediate                  | Advanced                       |
-| --------------------- | ----------------------------- | ------------------------------ |
-| Nuxt.js               | Laravel                       | PHP                            |
-| React.js              | Javascript                    | HTML                           |
-| Firebase              | Vue.js (Vuex, Vue Router)     | Git                            |
-| Angular               | Node.js (Express.js)          |                                |
-| Python                | Typescript                    |                                |
-| Jest                  | Phpunit                       |                                |
-| GraphQL               | Postgresql                    |                                |
-| Android(Java)         | SQLServe                      |                                |
-|                       | MongoDB                       |                                |
-|                       | UiPath(RPA)                   |                                |
-|                       | CSS                           |                                |
-|                       | Vuetify                       |                                |
-|                       | Bootstrap                     |                                |
-|                       | Linux                         |                                |
-|                       |                               |                                |
+TecnoTRENDS | Estagiário de TI
+Dezembro de 2015 - Dezembro de 2016
+Salvador BA
+Suporte ao cliente
+Banco de dados: SQL Server
 
-### DevOps
-
-Jenkins, Docker, AWS
-
-### Extra
-
-Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, Laravel PHP, Design Pattern.
-
-
-## EXPERIÊNCIA PROFISSIONAL
-
-- [Teladoc Health](https://www.teladochealth.com/pt/) - Analista de Sistemas Sênior - [Maio de 2021 - Atualmente]
-
-  - Atividades: Desenvolvendo um App para teleconsultas com Medicos, Clinicos, Psicologos e Pediatras, usando Adonis.js, Laravel, Vue.js, numa estrutura de           microserviços.
-
-- [META](https://www.meta.com.br/) - Desenvolvedor Sênior - [Janeiro de 2021 - Maio de 2021]
-
-  - Atividades: Trabalhei com JavaScript(Vue.Js) em um projeto chamado Córtex com o intuito de melhorar a segurança nacional rastreando veiculos
-    e pessoas que estão foragidos, o projeto esta sendo desenvolvido para o Ministerio da Justiça e Segurança Publica.
-    
-- [COUT](https://cout.app/) - Engenheiro de Software [Setembro de 2020 - Maio de 2021] - Consultoria
-
-  - Atividades: Trabalhei com PHP(Laravel) e JavaScript(Nuxt.Js) em um novo projeto da Cout com o intuito de gerenciar hospitais, atualmente o sistema esta na parte de     criação de escalas para o profissinais. 
-  
-- [ACP GROUP](http://www.acpgroup.com.br/) - Analista de Sistemas [Agosto de 2020 - Janeiro de 2021]
-
-  - Atividades: Trabalhei com PHP(Laravel) e JavaScript(Vue.Js) em um novo projeto da Lei Aldir Blanc, para liberar o pagamento do Auxilio Emergencial a os
-    trabalhadores da Cultura, ajudando no periodo da pandemia.
-
-- [CAPGEMINI](https://www.capgemini.com/br-pt/) - Analista de Sistemas [Janeiro de 2020 - Agosto de 2020]
-
-  - Atividades: Trabalhei com PHP(Laravel) e JavaScript(Vue.Js) em um novo projeto do Ministério Publico para gerenciar os gastos dos servidores.
-  
-- [WTF](http://www.wtf.inf.br/) - Analista de Sistemas [Janeiro de 2019 - Janeiro de 2020]
-
-  - Atividades: Trabalhei com PHP(Codeigniter) e RPA(UiPath) realizando a criação de novos sistemas web e automatizando processos com o UiPath.
-
-- [TECNOTRENDS](http://www.tecnotrends.com.br/) - Suporte Técnico [Julho de 2016 - Dezembro de 2016]
-
-  - Atividades: Suporte ao usuário, correção dos erros nos sistemas e no banco de dados.
-  
-- [ANNYNET]() - Desenvolvedor PHP [Janeiro de 2015 - Setembro de 2018]
-
-  - Atividades: Desenvolver PDV e prestar manutenção no sistema.
-    
-
-
-<!-- ## PRETENSÃO SALARIAL
-
-- CLT: > R\$ 12.000,00 + Beneficios
-- PJ: > R\$ 17.000,00
-
-_"A melhor maneira de prever o futuro é cria-lo" - Alan Kay_ -->
+🎓 Formação Acadêmica
+Pós-graduação em Engenharia de Software | Estácio 2020-2021
+Tecnólogo em Análise e Desenvolvimento de Sistemas | Fundação Visconde de Cairu 2015-2018
+🔧 Competências Técnicas
+Backend: Laravel, PHP, Node.js
+Banco de Dados: MySQL, MongoDB, PostgreSQL, SQL Server
+Versionamento: GIT, GitHub, GitLab
+Outras: Docker, Kubernetes, UiPath, Jenkins
+🌍 Idiomas
+Inglês: Nível Profissional
+🏆 Certificações
+SOLID Express
+Fundamentos da Arquitetura de Software
+Docker
+RabbitMQ
