@@ -14,14 +14,21 @@ Claro, Leandro. Vou listar todas as suas experiências profissionais de forma ma
 
 ## 💼 **Experiência Profissional**
 
+### **Perfect Pay** | Software Developer
+`Abril de 2024 - Atualmente`
+- Atuação na plataforma principal para os afiliados
+- **Back end**: PHP7.4 e PHP8.1
+- **Banco de dados**: MySql, MongoDB, Elasticsearch 
+- **Ferramentas**: GIT, Github, Docker
+
 ### **PicPay** | Software Developer
-`Março de 2023 - Atualmente`
+`Março de 2023 - Abril de 2024`
 - Atuação na Conta PJ
 - **Back end**: PHP7.4 e PHP8.1
 - **Banco de dados**: MySql, MongoDB
 - **Ferramentas**: GIT, Github, Kubernetes, Docker
 
-### **BRQ Digital Solutions** | Senior Software Developer
+### **Teladoc Health** | Senior Software Developer
 `Maio de 2021 - Março de 2023`
 - São Paulo, Brasil
 - Trabalho no projeto da Teladoc no aplicativo VidaV, parceria com a Vivo, voltado para telemedicina.
