@@ -1,6 +1,6 @@
 # Leandro Sales - Desenvolvedor Sênior
 
-🔹 **Desenvolvedor Web** com foco em PHP e experiência avançada em frameworks como Laravel e Vue.js. Sempre em busca de soluções inovadoras e comprometido com a excelência na entrega de projetos.
+🔹 **Desenvolvedor Web** com foco em PHP e experiência avançada em frameworks como Laravel e Vue.js. Com sólida experiência no desenvolvimento de aplicações escaláveis e robustas, busco sempre entregar soluções eficientes, seguindo as melhores práticas e padrões de design.
 
 ---
 
@@ -10,72 +10,64 @@
 
 ---
 
-Claro, Leandro. Vou listar todas as suas experiências profissionais de forma mais detalhada:
-
 ## 💼 **Experiência Profissional**
 
-### **Perfect Pay** | Software Developer
+### **MadeiraMadeira** | Senior Software Developer  
 `Abril de 2024 - Atualmente`
-- Atuação na plataforma principal para os afiliados
+- Desenvolvimento e manutenção de soluções robustas para o setor de logística e faturamento.
 - **Back end**: PHP7.4 e PHP8.1
-- **Banco de dados**: MySql, MongoDB, Elasticsearch 
-- **Ferramentas**: GIT, Github, Docker
+- **Banco de dados**: MySQL, MongoDB, Elasticsearch
+- **Ferramentas**: GIT, GitHub, Docker
 
-### **PicPay** | Software Developer
+### **PicPay** | Senior Software Developer  
 `Março de 2023 - Abril de 2024`
-- Atuação na Conta PJ
+- Atuação no squad de Repasses PJ, garantindo eficiência e confiabilidade nos processos de repasse de dinheiro proveniente das vendas e funcionalidades de saque.
 - **Back end**: PHP7.4 e PHP8.1
-- **Banco de dados**: MySql, MongoDB
-- **Ferramentas**: GIT, Github, Kubernetes, Docker
+- **Banco de dados**: MySQL, MongoDB
+- **Ferramentas**: GIT, GitHub, Kubernetes, Docker
 
-### **Teladoc Health** | Senior Software Developer
+### **Teladoc Health** | Senior Software Developer  
 `Maio de 2021 - Março de 2023`
-- São Paulo, Brasil
-- Trabalho no projeto da Teladoc no aplicativo VidaV, parceria com a Vivo, voltado para telemedicina.
-- **Back end**: Laravel versão 8, Adonis.Js, Node.Js
-- **Banco de dados**: PostgreSql, MongoDB
-- **Front End**: Vuejs
-- **Ferramentas**: GIT, Gitlab, Gcloud, Microsserviços, Kubernetes, Docker
+- Desenvolvimento do aplicativo VidaV, em parceria com a Vivo, focado em telemedicina.
+- **Back end**: Laravel 8, Adonis.Js, Node.js
+- **Banco de dados**: PostgreSQL, MongoDB
+- **Front End**: Vue.js
+- **Ferramentas**: GIT, GitLab, GCloud, Microsserviços, Kubernetes, Docker
 
-### **Cout** | Engenheiro de Software
+### **Cout** | Engenheiro de Software  
 `Agosto de 2020 - Maio de 2021`
-- Goiânia, Goiás, Brasil
-- Projeto Cout com objetivo de criar escalas para hospitais e clínicas.
-- **Back end**: Laravel versão 7
+- Desenvolvimento de sistema para escalas médicas em hospitais e clínicas.
+- **Back end**: Laravel 7
 - **Banco de dados**: MySQL
-- **Front End**: Vuejs e Nuxt.js
-- **Ferramentas de Versionamento**: GIT e Gitlab
+- **Front End**: Vue.js, Nuxt.js
+- **Ferramentas**: GIT, GitLab
 
-### **Capgemini** | Analista de Sistemas
+### **Capgemini** | Analista de Sistemas  
 `Janeiro de 2020 - Agosto de 2020`
-- Salvador
-- Projeto Despesas Miudas para gerenciar gastos dos servidores públicos.
-- **Back end**: Laravel versão 7
+- Desenvolvimento do sistema Despesas Miúdas, voltado ao gerenciamento de gastos de servidores públicos.
+- **Back end**: Laravel 7
 - **Banco de dados**: SQL Server
-- **Front End**: HTML5, Vuejs e Elemental UI
-- **Ferramentas de Versionamento**: GIT e Gitlab
-- **DevOps**: Linux, Docker, docker-compose, Jenkins
+- **Front End**: HTML5, Vue.js, Elemental UI
+- **Ferramentas**: GIT, GitLab
+- **DevOps**: Linux, Docker, Docker Compose, Jenkins
 
-### **Wtf Tecnologia** | Analista de Sistemas
+### **WTF Tecnologia** | Analista de Sistemas  
 `Janeiro de 2019 - Janeiro de 2020`
-- Salvador e Região, Brasil
-- Atuação no sistema GAIA para automatização do setor financeiro.
-- **Back end**: Codeigniter 3, Node.JS, UiPath
+- Desenvolvimento do sistema GAIA para automação do setor financeiro.
+- **Back end**: CodeIgniter 3, Node.js, UiPath
 - **Banco de dados**: SQL Server, PostgreSQL
-- **Ferramentas de Versionamento**: GIT e Gitlab
+- **Ferramentas**: GIT, GitLab
 
-### **AnnyNet** | Desenvolvedor de Software
+### **AnnyNet** | Desenvolvedor de Software  
 `Janeiro de 2017 - Janeiro de 2019`
-- Salvador e Região, Brasil
-- Suporte ao cliente, correções de bugs e melhorias.
-- **Back end**: Codeigniter 3
+- Suporte ao cliente, correções de bugs e melhorias no sistema.
+- **Back end**: CodeIgniter 3
 - **Banco de dados**: PostgreSQL
-- **Ferramentas de Versionamento**: GIT e GitHub
+- **Ferramentas**: GIT, GitHub
 
-### **TecnoTRENDS** | Estagiário de TI
+### **TecnoTRENDS** | Estagiário de TI  
 `Dezembro de 2015 - Dezembro de 2016`
-- Salvador e Região, Brasil
-- Suporte ao cliente
+- Suporte ao cliente e manutenção de banco de dados.
 - **Banco de dados**: SQL Server
 
 ---
@@ -89,10 +81,13 @@ Claro, Leandro. Vou listar todas as suas experiências profissionais de forma ma
 
 ## 🔧 **Competências Técnicas**
 
-- **Backend**: Laravel, PHP, Node.js
+- **Backend**: Laravel, PHP, Node.js, Adonis.js
+- **Frontend**: Vue.js, Nuxt.js
 - **Banco de Dados**: MySQL, MongoDB, PostgreSQL, SQL Server
 - **Versionamento**: GIT, GitHub, GitLab
-- **Outras**: Docker, Kubernetes, UiPath, Jenkins
+- **Cloud & DevOps**: Docker, Kubernetes, GCloud, Jenkins, CI/CD
+- **AWS**: ECS, S3, SQS, EC2, Route 53, Secret Manager
+- **Automação**: UiPath
 
 ---
 
@@ -108,4 +103,3 @@ Claro, Leandro. Vou listar todas as suas experiências profissionais de forma ma
 - Docker
 - RabbitMQ
 
----
